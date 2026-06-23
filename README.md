@@ -32,11 +32,11 @@ Every note here is something I've actually run, broken, debugged, and understood
 
 ## System setup
 
-| Component | Detail |linux-mastery 
-|-----------|--------|
-| OS | Linux Mint 21.x Cinnamon |
-| CPU | Intel i7-6820HQ (4C/8T) |
-| RAM | 8 GB |
-| Storage | SSD |
-| Shell | Bash |
-| Editor | VS Code |
+| Component | Detail |linux-mastery |
+|-----------|--------|-------------|
+| OS | Linux Mint 21.x Cinnamon | |
+| CPU | Intel i7-6820HQ (4C/8T) | |
+| RAM | 8 GB | |
+| Storage | SSD | |
+| Shell | Bash | |
+| Editor | VS Code | |
